@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+🎓 Engineering Science @ University of Toronto (ECE Major)
+🔬 Healthcare Researcher | Hardware & Machine Learning Engineer
+
+## 📚 I'm currently working on...
+- data analysis to study the impact of air pollution on childhood pneumonia (w/ Harvard T.H. Chan School of Public Health)
+- speech processing tools to analyze vowel sounds for obstructive sleep apnea (w/ University of Michigan)
+
 <!--
 **jacqzhu/jacqzhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
