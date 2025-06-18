@@ -1,6 +1,6 @@
 🎓 Engineering Science @ University of Toronto & Healthcare Researcher
 
-## 📚 Current Research
+### 📚 Current Research
 
 - 🩺 **Air Pollution & Childhood Pneumonia**  
   Investigating the impact of nitrous oxide  on pediatric respiratory illness  
