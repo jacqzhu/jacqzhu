@@ -3,12 +3,12 @@
 ## 📚 Current Research
 
 - 🩺 **Air Pollution & Childhood Pneumonia**  
-  Investigating the impact of nitrous oxide pollutants on pediatric respiratory illness  
-  *with Harvard T.H. Chan School of Public Health*
+  Investigating the impact of nitrous oxide  on pediatric respiratory illness  
+  *Harvard T.H. Chan School of Public Health*
 
 - 🔊 **Speech Processing for Obstructive Sleep Apnea**  
-  Developing speech processing tools for clinical audio analysis
-  *with University Health Network & University of Michigan*
+  Developing speech processing tools for clinical audio analysis  
+  *University Health Network & University of Michigan*
 
 
 <!--
