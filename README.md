@@ -1,13 +1,15 @@
-🎓 Engineering Science @ University of Toronto
-
-🔬 Healthcare Researcher | Hardware & Machine Learning Engineer
+🎓 Engineering Science @ University of Toronto & Healthcare Researcher
 
 ## 📚 Current Research
 
-- 🩺 Investigating the impact of air pollution on childhood pneumonia  
-  *with Harvard T.H. Chan School of Public Health*  
-- 🔊 Developing speech processing tools for vowel segmentation in obstructive sleep apnea  
-  *with University of Michigan Sleep Research Lab*
+- 🩺 **Air Pollution & Childhood Pneumonia**  
+  Investigating the impact of nitrous oxide pollutants on pediatric respiratory illness  
+  *with Harvard T.H. Chan School of Public Health*
+
+- 🔊 **Speech Processing for Obstructive Sleep Apnea**  
+  Developing speech processing tools for clinical audio analysis
+  *with University Health Network & University of Michigan*
+
 
 <!--
 **jacqzhu/jacqzhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
