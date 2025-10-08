@@ -1,9 +1,3 @@
-🎓 Engineering Science @ University of Toronto
-
-- I’m currently working hardware systems for health monitoring.
-- I’m currently learning mixed-signal circuit design, ASIC design, and digital signal processing.
-- I have experience in SystemVerilog, FPGA, PyTorch, C++, and embedded systems.
-
 <!--
 **jacqzhu/jacqzhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
